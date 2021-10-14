@@ -2,3 +2,4 @@ venv
 .idea
 my_token.txt
 __pycache__
+app/db.sqlite3
