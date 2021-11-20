@@ -7,3 +7,9 @@ class Rate(models.Model):
     created = models.DateTimeField()
     type = models.CharField(max_length=3)  # noqa
     source = models.CharField(max_length=25)
+
+
+class ContactUs(models.Model):
+    email_from = models.CharField(max_length=50)
+    subject = models.CharField(max_length=50)
+    message = models.CharField(max_length=1000)
