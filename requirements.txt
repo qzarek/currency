@@ -1,1 +1,9 @@
 Django
+django-extensions
+ipython
+
+#Flake8
+flake8
+flake8-builtins
+flake8-print
+flake8-import-order
