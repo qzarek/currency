@@ -1,4 +1,4 @@
-from currency.models import Rate, ContactUs
+from currency.models import ContactUs, Rate
 
 from django.http.response import HttpResponse
 

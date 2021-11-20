@@ -1,4 +1,4 @@
-from currency.views import rate_list, contact_us
+from currency.views import contact_us, rate_list
 
 from django.contrib import admin
 from django.urls import path
