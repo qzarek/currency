@@ -1,1 +1,2 @@
-# currency
+#The currency - is my study project)
+
